@@ -1,0 +1,16 @@
+.idea
+.DS_Store
+logs/
+*.iml
+*.ipr
+*.iws
+*.idea
+.gradle
+*/build
+*/logs
+*/out
+*/.idea
+**/target
+
+
+
