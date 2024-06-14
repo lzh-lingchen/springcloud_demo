@@ -16,8 +16,8 @@
     <mybatis.springboot.version>3.0.2</mybatis.springboot.version>
     <mysql.version>8.0.11</mysql.version>
     <swagger3.version>2.2.0</swagger3.version>
-    <mapper.version>4.1.5</mapper.version>
-<!--    <mapper.version>4.2.3</mapper.version>-->
+<!--    <mapper.version>4.1.5</mapper.version>-->
+    <mapper.version>4.2.0</mapper.version>
     <fastjson2.version>2.0.40</fastjson2.version>
     <persistence-api.version>1.0.2</persistence-api.version>
     <spring.boot.test.version>3.1.5</spring.boot.test.version>
